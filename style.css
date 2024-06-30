@@ -1,0 +1,28 @@
+body{
+    background-color:#009FF5;
+    font-family: 'Courier New', Courier, monospace;
+    size: 100%
+}
+
+td {
+    border: 3px solid #FDCD49;
+    padding: 50px; 
+    size: 100%
+}
+
+#display-image, #image-send {
+    background-color: #F2D0A4;
+    padding: 50px; 
+
+}
+h1{
+    text-align: center;
+    border: 2px solid #FFECCC; 
+    background-color: #F2D0A4;
+}
+#send-button,#display-button{
+    background-color: #009FF5;
+}
+image{
+    size: 25%;
+}
